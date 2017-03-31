@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UFT-8" ?>
+
+
+<xs:schema >
+
+
+
+<xs:element name="Kitap">
+
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name="Kitap_id" type="xs:string"/>
+    <xs:element name="Kitap_adi" type="xs:string"/>
+    <xs:element name="ISBN" type="xs:string"/>
+    <xs:element name="Dil" type="xs:string"/>
+    <xs:element name="Tür" type="xs:string"/>
+    <xs:element name="Sayfa" type="xs:string"/>
+    <xs:element name="Yazar_id" type="xs:string"/>
+    <xs:element name="Yayinci_id" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+    
+</xs:element>
+
+
+<xs:element name="Yayınevi">
+
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name="Yayinci_id" type="xs:string"/>
+    <xs:element name="Adi" type="xs:string"/>
+    <xs:element name="Adresi" type="xs:string"/>
+    <xs:element name="İletisim" type="xs:string"/>
+
+  </xs:sequence>
+</xs:complexType>
+    
+</xs:element>
+
+
+
+<xs:element name="Yazar">
+
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name="Yazar_id" type="xs:string"/>
+    <xs:element name="Yazar_adi" type="xs:string"/>
+    <xs:element name="Dogum_tarihi" type="xs:string"/>
+    <xs:element name="Cinsiyet" type="xs:string"/>
+
+  </xs:sequence>
+</xs:complexType>
+    
+</xs:element>
+ 
+    </xs:schema>
+
+
