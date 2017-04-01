@@ -8,7 +8,7 @@
         <yayinci_id> 1     </yayinci_id>
         <Adi>     Can Yayınları       </Adi>
         <Adresi>  İstanbul     </Adresi>
-        <İletisim> 0212 252 5675     </İletisim>
+        <iletisim> 0212 252 5675     </iletisim>
     
     </yayinevi>
     
@@ -17,7 +17,7 @@
         <yayinci_id>  2    </yayinci_id>
         <Adi>        Kapı Yayınları   </Adi>
         <Adresi>  İstanbul       </Adresi>
-        <İletisim> 0212 513 3420     </İletisim>
+        <iletisim> 0212 513 3420     </iletisim>
     
     </yayinevi>
         
@@ -35,7 +35,7 @@
         <yayinci_id>  4    </yayinci_id>
         <Adi>    Yapı Kredi Yayınları     </Adi>
         <Adresi>   İstanbul  </Adresi>
-        <İletisim>  0212 252 4700    </İletisim>
+        <iletisim>  0212 252 4700    </iletisim>
     
     </yayinevi>
         
