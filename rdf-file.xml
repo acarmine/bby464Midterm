@@ -1,0 +1,243 @@
+<xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+ 
+<rdf:Description rdf:about=" Hayvan Ciftligi    ">
+    
+  <dc:title>   Hayvan Çiftliği    </dc:title>
+  <dc:creator>     George Orwell             </dc:creator>
+  <dc:identifier>    9789750719387      </dc:identifier>
+  <dc:publisher>    Can Yayınları           </dc:publisher>
+  <dc:type>   Roman           </dc:type>
+   <dc:page>   160       </dc:page>
+  <dc:language>   Türkçe             </dc:language>
+    
+    </rdf:Description>
+    
+    
+    <rdf:Description rdf:about=" Zeyneb                ">
+    
+  <dc:title> Zeyneb         </dc:title>
+  <dc:creator>  Nurdan Damla                </dc:creator>
+  <dc:identifier>   9786051511207       </dc:identifier>
+  <dc:publisher>  Hayat Yayıncılık             </dc:publisher>
+  <dc:type>   Roman           </dc:type>
+   <dc:page>  344        </dc:page>
+  <dc:language> Türkçe               </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    <rdf:Description rdf:about="  Belkis               ">
+    
+  <dc:title>   Belkıs    </dc:title>
+  <dc:creator>   Nurdan Damla               </dc:creator>
+  <dc:identifier>  9786051511542        </dc:identifier>
+  <dc:publisher>  Hayat Yayıncılık             </dc:publisher>
+  <dc:type>    Roman          </dc:type>
+   <dc:page>   296       </dc:page>
+  <dc:language>  Türkçe              </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    <rdf:Description rdf:about=" 1984                ">
+    
+  <dc:title>  1984     </dc:title>
+  <dc:creator>   George Orwell               </dc:creator>
+  <dc:identifier> 9789750718533        </dc:identifier>
+  <dc:publisher> Can Yayınları               </dc:publisher>
+  <dc:type>  Roman            </dc:type>
+   <dc:page>      352    </dc:page>
+  <dc:language>  Türkçe              </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    <rdf:Description rdf:about=" Papazin Kizi                ">
+    
+  <dc:title>  Papazın Kızı     </dc:title>
+  <dc:creator>  George Orwell                </dc:creator>
+  <dc:identifier> 9789750734359         </dc:identifier>
+  <dc:publisher>  Can Yayınları             </dc:publisher>
+  <dc:type>   Roman           </dc:type>
+   <dc:page>   328       </dc:page>
+  <dc:language> Türkçe               </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    
+    
+    <rdf:Description rdf:about="   Ciplak Sokak              ">
+    
+  <dc:title> Çıplak Sokak      </dc:title>
+  <dc:creator>  Jose Mauro De Vasconcelos        </dc:creator>
+  <dc:identifier>  9789750725548        </dc:identifier>
+  <dc:publisher>   Can Yayınları            </dc:publisher>
+  <dc:type>  Roman            </dc:type>
+   <dc:page>    190      </dc:page>
+  <dc:language>   Türkçe             </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    <rdf:Description rdf:about=" Gunesi Uyandiralim                ">
+    
+  <dc:title>   Güneşi Uyandıralım    </dc:title>
+  <dc:creator> Jose Mauro De Vasconcelos       </dc:creator>
+  <dc:identifier>  9789750725050        </dc:identifier>
+  <dc:publisher> Can Yayınları              </dc:publisher>
+  <dc:type>    Roman          </dc:type>
+   <dc:page>   273       </dc:page>
+  <dc:language>  Türkçe              </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    <rdf:Description rdf:about=" Kuyucakli Yusuf                ">
+    
+  <dc:title>    Kuyucaklı Yusuf   </dc:title>
+  <dc:creator>   Sabahattin Ali               </dc:creator>
+  <dc:identifier>    9789750800016     </dc:identifier>
+  <dc:publisher>   Yapı Kredi Yayınları            </dc:publisher>
+  <dc:type>   Roman           </dc:type>
+   <dc:page>  220        </dc:page>
+  <dc:language>   Türkçe              </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    <rdf:Description rdf:about="  Degirmen               ">
+    
+  <dc:title> Değirmen      </dc:title>
+  <dc:creator>   Sabahattin Ali               </dc:creator>
+  <dc:identifier>  9789750806605        </dc:identifier>
+  <dc:publisher>  Yapı Kredi Yayınları              </dc:publisher>
+  <dc:type>   Öykü           </dc:type>
+   <dc:page>   148       </dc:page>
+  <dc:language>      Türkçe           </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    <rdf:Description rdf:about=" İcimizdeki Seytan                ">
+    
+  <dc:title>İiçimizdeki Şeytan       </dc:title>
+  <dc:creator>   Sabahattin Ali               </dc:creator>
+  <dc:identifier> 9789753638036          </dc:identifier>
+  <dc:publisher> Yapı Kredi Yayınları               </dc:publisher>
+  <dc:type>  Roman            </dc:type>
+   <dc:page>   254       </dc:page>
+  <dc:language> Türkçe               </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    <rdf:Description rdf:about="  Delifisek               ">
+    
+  <dc:title>  Delifişek     </dc:title>
+  <dc:creator> Jose Mauro De Vasconcelos                 </dc:creator>
+  <dc:identifier> 9789750724787        </dc:identifier>
+  <dc:publisher> Can Yayınları              </dc:publisher>
+  <dc:type> Roman             </dc:type>
+   <dc:page>  85        </dc:page>
+  <dc:language>  Türkçe              </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    
+    <rdf:Description rdf:about="   Kirmizi Papagan              ">
+    
+  <dc:title>  Kırmızı Papağan     </dc:title>
+  <dc:creator>  Jose Mauro De Vasconcelos                </dc:creator>
+  <dc:identifier>  9789755107936        </dc:identifier>
+  <dc:publisher> Can Yayınları               </dc:publisher>
+  <dc:type>  Roman             </dc:type>
+   <dc:page>    236      </dc:page>
+  <dc:language>  Türkçe                </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    
+    <rdf:Description rdf:about=" Yaban Muzu                ">
+    
+  <dc:title>   Yaban Muzu    </dc:title>
+  <dc:creator> Jose Mauro De Vasconcelos                 </dc:creator>
+  <dc:identifier> 9789750725531         </dc:identifier>
+  <dc:publisher> Can Yayınları               </dc:publisher>
+  <dc:type>  Roman             </dc:type>
+   <dc:page>  170        </dc:page>
+  <dc:language>   Türkçe               </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    
+    <rdf:Description rdf:about=" Hz. Mevlana     ">
+    
+  <dc:title> Hz. Mevlana      </dc:title>
+  <dc:creator> Sinan Yağmur                 </dc:creator>
+  <dc:identifier>  9786055147716        </dc:identifier>
+  <dc:publisher>  Kapı Yayınları             </dc:publisher>
+  <dc:type>   Roman           </dc:type>
+   <dc:page>   264       </dc:page>
+  <dc:language> Türkçe                </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    
+    <rdf:Description rdf:about=" Kimya Hatun    ">
+    
+  <dc:title>  Kimya Hatun     </dc:title>
+  <dc:creator>  Sinan Yağmur                </dc:creator>
+  <dc:identifier> 9786055147723        </dc:identifier>
+  <dc:publisher>   Kapı Yayınları             </dc:publisher>
+  <dc:type> Roman              </dc:type>
+   <dc:page>   264       </dc:page>
+  <dc:language>  Türkçe               </dc:language>
+    
+    </rdf:Description>
+    
+    
+    
+    <rdf:Description rdf:about=" Sems Tebrizi       ">
+    
+  <dc:title>  Şems Tebrizi     </dc:title>
+  <dc:creator> Sinan Yağmur                 </dc:creator>
+  <dc:identifier> 9786055147709         </dc:identifier>
+  <dc:publisher>  Kapı Yayınları              </dc:publisher>
+  <dc:type>   Roman            </dc:type>
+   <dc:page>   240       </dc:page>
+  <dc:language> Türkçe               </dc:language>
+    
+    </rdf:Description>
+    
+        </rdf:RDF>
+</xml>
